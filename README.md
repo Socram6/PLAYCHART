@@ -17,7 +17,7 @@ Optimized group chatGPT for fast Interactive Planning, and Consultation, to buil
 
 # A dream with a plan is a goal; make your dreams possible with simple and efficent planning tools
 
-Worktime is Playtime, enjoy dreaming and making those dreams a reality, you are only limited by what you think is impossible.  
+Worktime is Playtime, enjoy dreaming and making those dreams a reality, you are only limited by what you believe to be impossible.  
 
 Offered by Playchart
 
