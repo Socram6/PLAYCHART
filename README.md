@@ -10,14 +10,16 @@ Alarms, Notifications, Reminders, File Directory for convenient organization and
 
 # Time is money, convinence saves time, and therefore money. 
 
-# 60 seconds saved 60 times a day is an hour saved
+
 
 Optimization for hours of worktime saved through AI integration. 
 Optimized group chatGPT for fast Interactive Planning, and Consultation, to build your goals.
 
 # A dream with a plan is a goal; make your dreams possible with simple and efficent planning tools
 
-Offered by Flash and Playchart
+Worktime is Playtime, enjoy dreaming and making those dreams a reality, you are only limited by what you think is impossible.  
+
+Offered by Playchart
 
 
 
